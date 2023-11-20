@@ -6,7 +6,7 @@ The dataset obtained from Kaggle consists of text from people with mental illnes
 
 Dataset: https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus
 
-Data visualization obtained from dataset. <br><br>
+Data visualization created based on dataset. <br><br>
 <img src="sentiment.png" alt="Most frequent Words Mentioned in Text"> <br><br>
 
 <img src="graph sentiment.png" alt="Top Words Mentioned in Text">
