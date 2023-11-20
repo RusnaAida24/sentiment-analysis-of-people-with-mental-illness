@@ -7,4 +7,5 @@ The dataset obtained from Kaggle consists of text from people with mental illnes
 Dataset: https://www.kaggle.com/datasets/reihanenamdari/mental-health-corpus
 
 Data visualization obtained from dataset.
+<img src="pic_trulli.jpg" alt="Italian Trulli">
 
